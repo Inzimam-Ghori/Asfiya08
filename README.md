@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Asfiya Tabasum</h1>
 <h3 align="center">An undergraduate pursuing Electrical and electronics engineering with a keen interest in programming</h3>
-<img align="right" alt="Coding" width="400" src="https://im3.ezgif.com/tmp/ezgif-3-8d621f66f5.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/x3XpW1F/Github-pic.gif">
 
 
 - 💻 I’m Studying in **Muffakham Jah College of Engineering and Technology**
