@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 📫 How to reach me **mohdasfiya8@gmail.com**
-
 - ⚡I am **Creative, Energetic, Team player and good problem solver**
 
 <h3 align="left">Connect with me:</h3>
